@@ -1,0 +1,14 @@
+// Minimal package.json to start SvelteKit
+{
+  "name": "basic-calculator-e2db623a",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/kit": "next",
+    "svelte": "^4.0.0"
+  }
+} 
